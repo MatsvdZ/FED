@@ -26,6 +26,15 @@
 /****************/
 /* JOUW STYLING */
 /****************/
-
 /* jouw code */
+
+html, body {       /*Bron: https://stackoverflow.com/questions/17756649/disable-the-horizontal-scroll*/
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+img {
+	max-width: 380px;
+}
+
 

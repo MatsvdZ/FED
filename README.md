@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   homepage  
-  <img src="readme-images/WhatsApp Image 2024-11-10 at 14.05.10.jpeg" width="375px" alt="homepagina met het laatste nieuws in de formule 1">
+  <img src="readme-images/IMG_9748.JPG" width="375px" alt="homepagina met het laatste nieuws in de formule 1">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   schedule  
-  <img src="readme-images/WhatsApp Image 2024-11-10 at 14.05.10 (1).jpeg" width="375px" alt="schema pagina met de komende races in de formule 1">
+  <img src="readme-images/IMG_9746.JPG" width="375px" alt="schema pagina met de komende races in de formule 1">
  
 </details>
 
@@ -58,6 +58,30 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
+  Wat meteen opviel bij het taalgebruik is dat de taal de technische termen gebruikt uit de formule 1 wat voor mensen die voor
+  het eerst op de site zitten toch best lastig zou kunnen zijn.
+
+  Na het valideren van de HTML zijn er toch een hoop dingen die naar voren kwamen die niet helemaal goed waren.
+  <img src="readme-images/htmlvalidatief1.png" width="375px" alt="breakdown van de hele 1e pagina">
+
+  Het is afwisselend met de focusstyles, soms wel goed zichtbaar maar soms ook bijna niet.
+
+  In sommige dynamische content area's is de heading hiërarchie niet meteen duidelijk, en dit kan screen readers beïnvloeden. 
+  Hetzelfde geldt ook voor dynamisch geladen content en complexe layouts
+
+  Niet alle foto's hebben een alt tekst of een eventuele lege alt. Ook zijn er geen alternatieve teksten voor grafieken o.i.d.
+  Ook foto's met tekst bevatten deze tekst niet in de alt tekst.
+
+  De video's bevatten zelf geen caption, maar sommige delen van de video worden onder de video uitgewerkt, bijvoorbeeld bij een interview.
+  Ook transcript is niet beschikbaar.
+
+  Er is geen ingeboude schakelaar voor darkmode en high contrast mode. Darkmode werkt ook niet met systeem instellingen
+  maar high contrast mode wel.
+
+  Niet alle animaties hebben de prefers-reduced-motion media query.
+
+  Ook het contras kan op sommige plekken beter voor zowel tekst als iconen.
+
 </details>
 
 
@@ -68,10 +92,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdownschets1epagina.png" width="375px" alt="breakdown van de hele 1e pagina">
+  <img src="readme-images/breakdownschets2epagina.png" width="375px" alt="breakdown van de hele 2e pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/IMG_9796.PNG" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
@@ -229,7 +254,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
+  1. https://stackoverflow.com/questions/17756649/disable-the-horizontal-scroll
+  
   2. bron 2
   3. ...
 
