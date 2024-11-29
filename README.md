@@ -113,26 +113,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  Voordat we het eerste voortgangs gesprek hadden, had ik al een HTML opzet gemaakt voor mijn website. Dit heb ik gedaan met de ervaring die ik uit eerdere vakken heb geleerd. Tijdens het gesprek waren er zoals ik al wel verwacht had wel een aantal dingen die eventueel aangepast zouden moeten worden, maar dat lees je hieronder.
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Let op wanneer je een linkje gebruikt en wanneer je een button gebruikt.
+  - Oefen (als je dit wilt) met een table i.p.v een list! (voor de driver standings)
+  - Het grote paarse vlak zou je een aside kunnen maken.
+  - Maak de site niet exact na, maar oefen met verschillende onderdelen die je ook zou willen leren.
+  - De H1 kan ook een image zijn, maar vergeet dan niet een juiste alt tekst toe te voegen.
+  Tijdens de eerste meeting zijn we met elkaar en de docent door elke site heen gegaan en hiervan geconstateerd wat de headings waren, en hoe de site in zijn algemeen is opgedeeld. Na een aantal tips & tricks is het wel gelukt om een goede opzet voor de website te maken.
 
 </details>
 
@@ -256,7 +248,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   1. https://stackoverflow.com/questions/17756649/disable-the-horizontal-scroll
   
-  2. bron 2
-  3. ...
+  2. https://www.formula1.com/
+
+  3. https://chatgpt.com/
+
+  4. https://www.w3schools.com/html/html_tables.asp
+  
+
 
 </details>
