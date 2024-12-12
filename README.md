@@ -227,32 +227,32 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Je uitkomst - karakteristiek screenshots:
 
   Pagina 1, laptop
-  <img src="readme-images/screenshot1laptop.png" width="375px" alt="uitomst eindopdracht">
-  <img src="readme-images/screenshot2laptop.png" width="375px" alt="uitomst eindopdracht">
-  <img src="readme-images/screenshot3laptop.png" width="375px" alt="uitomst eindopdracht">
-  <img src="readme-images/screenshot4laptop.png" width="375px" alt="uitomst eindopdracht">
+  <img src="readme-images/screenshot1laptop.png" width="750px" alt="uitomst eindopdracht">
+  <img src="readme-images/screenshot2laptop.png" width="750px" alt="uitomst eindopdracht">
+  <img src="readme-images/screenshot3laptop.png" width="750px" alt="uitomst eindopdracht">
+  <img src="readme-images/screenshot4laptop.png" width="750px" alt="uitomst eindopdracht">
 
   pagina 1, telefoon
-  <img src="readme-images/screenshot1telefoon.png" width="375px" alt="uitomst eindopdracht">
-  <img src="readme-images/screenshot2telefoon.png" width="375px" alt="uitomst eindopdracht">
-  <img src="readme-images/screenshot3telefoon.png" width="375px" alt="uitomst eindopdracht">
-  <img src="readme-images/screenshot4telefoon.png" width="375px" alt="uitomst eindopdracht">
-  <img src="readme-images/screenshot5telefoon.png" width="375px" alt="uitomst eindopdracht">
+  <img src="readme-images/screenshot1telefoon.png" width="750px" alt="uitomst eindopdracht">
+  <img src="readme-images/screenshot2telefoon.png" width="750px" alt="uitomst eindopdracht">
+  <img src="readme-images/screenshot3telefoon.png" width="750px" alt="uitomst eindopdracht">
+  <img src="readme-images/screenshot4telefoon.png" width="750px" alt="uitomst eindopdracht">
+  <img src="readme-images/screenshot5telefoon.png" width="750px" alt="uitomst eindopdracht">
 
 
   pagina 2, laptop
-  <img src="readme-images/screenshot5laptop.png" width="375px" alt="uitomst eindopdracht">
-  <img src="readme-images/screenshot6laptop.png" width="375px" alt="uitomst eindopdracht">
-  <img src="readme-images/screenshot7laptop.png" width="375px" alt="uitomst eindopdracht">
+  <img src="readme-images/screenshot5laptop.png" width="750px" alt="uitomst eindopdracht">
+  <img src="readme-images/screenshot6laptop.png" width="750px" alt="uitomst eindopdracht">
+  <img src="readme-images/screenshot7laptop.png" width="750px" alt="uitomst eindopdracht">
 
   pagina 2, telefoon
-  <img src="readme-images/screenshot6telefoon.png" width="375px" alt="uitomst eindopdracht">
-  <img src="readme-images/screenshot7telefoon.png" width="375px" alt="uitomst eindopdracht">
-  <img src="readme-images/screenshot8telefoon.png" width="375px" alt="uitomst eindopdracht">
+  <img src="readme-images/screenshot6telefoon.png" width="750px" alt="uitomst eindopdracht">
+  <img src="readme-images/screenshot7telefoon.png" width="750px" alt="uitomst eindopdracht">
+  <img src="readme-images/screenshot8telefoon.png" width="750px" alt="uitomst eindopdracht">
 
 
   menu, telefoon
-  <img src="readme-images/menuvoorbeeld.png" width="375px" alt="uitomst eindopdracht">
+  <img src="readme-images/menuvoorbeeld.png" width="750px" alt="uitomst eindopdracht">
 
 
 
